@@ -22,13 +22,13 @@
 
 [![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=mythofys)](https://solved.ac/mythofys)
 
-| 플랫폼 | 닉네임 · 티어 / 레이팅 | 하이라이트 |
+| 플랫폼 | 닉네임 · 티어 / 레이팅 | 비고 |
 |---------|-----------------------|------------|
 | **Baekjoon** | `mythofys` • Diamond Ⅲ • **1000+** solved | 2024 KSAAC Winter Contest 검수·출제 |
 | **Codeforces** | Specialist • 1876 (max) / 1701 (now) |  |
 | **AtCoder** | 5 Kyu • 1181 (max) / 1171 (now) |  |
-| **Euler OJ** | **500+** solved |  |
-| **블로그** | [백준 풀이 일지](https://windrew.tistory.com/manage) 운영 |  |
+| **Euler OJ** | **500+** solved | 미해결 145문제 / 업적 14개 |
+| **블로그** | [백준 일지](https://windrew.tistory.com/manage) 운영 | 총 조회수 2000+ |
 
 ---
 
@@ -38,7 +38,7 @@
   - 2022 고등부 1차 `동상`  
   - 2024 고등부 1차 `동상`, 2차 `동상 (51/182)`  
 - **NYPC** (Nexon Youth Programming Challenge)  
-  - 2022 Round1 `특별상` · 2023 Round1 `특별상`,
+  - 2022·2023 Round1 `특별상`
   - Finalist 2023·2024
 - **APIO** (Asia-Pacific Informatics Olympiad)
   - 2022 (Unofficial 23 / 42) (Korea)
