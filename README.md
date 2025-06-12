@@ -28,7 +28,7 @@
 | **Codeforces** | Specialist • 1876 (max) / 1701 (now) |  |
 | **AtCoder** | 5 Kyu • 1181 (max) / 1171 (now) |  |
 | **Euler OJ** | **500+** solved | 미해결 145문제 / 업적 14개 |
-| **블로그** | [백준 일지](https://windrew.tistory.com/manage) 운영 | 총 조회수 2000+ |
+| **블로그** | [백준 일지](https://windrew.tistory.com/) 운영 | 총 조회수 2000+ |
 
 ---
 
